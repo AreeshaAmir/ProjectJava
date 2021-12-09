@@ -1,0 +1,381 @@
+cd C:\Users\mm computer\Desktop\JAVAPROJECT; "JAVA_HOME=C:\\Program Files\\Java\\jdk-16.0.2" cmd /c "\"C:\\Program Files\\NetBeans-12.4\\netbeans\\java\\maven\\bin\\mvn.cmd\" -Dmaven.ext.class.path=\"C:\\Program Files\\NetBeans-12.4\\netbeans\\java\\maven-nblib\\netbeans-eventspy.jar\" -Dfile.encoding=UTF-8 generate-sources javadoc:javadoc"
+Scanning for projects...
+
+----------------------------< areesha:Demo >----------------------------
+Building JAVAPROJECT 1.0-SNAPSHOT
+--------------------------------[ jar ]---------------------------------
+
+>>> maven-javadoc-plugin:3.3.1:javadoc (default-cli) > generate-sources @ Demo >>>
+
+<<< maven-javadoc-plugin:3.3.1:javadoc (default-cli) < generate-sources @ Demo <<<
+
+
+--- maven-javadoc-plugin:3.3.1:javadoc (default-cli) @ Demo ---
+Configuration changed, re-generating javadoc.
+
+Loading source file C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\HOME.java...
+Loading source file C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question1.java...
+Loading source file C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question10.java...
+Loading source file C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question2.java...
+Loading source file C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question3.java...
+Loading source file C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question4.java...
+Loading source file C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question5.java...
+Loading source file C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question6.java...
+Loading source file C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question7.java...
+Loading source file C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question8.java...
+Loading source file C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question9.java...
+Loading source file C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\Result.java...
+Loading source file C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\TIC_TAC_TOE.java...
+Loading source file C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\TITLEPAGE.java...
+Constructing Javadoc information...
+Building index for all the packages and classes...
+Standard Doclet version 16.0.2+7-67
+Building tree for all the packages and classes...
+Generating C:\Users\mm computer\Desktop\JAVAPROJECT\target\site\apidocs\HOME.html...
+Generating C:\Users\mm computer\Desktop\JAVAPROJECT\target\site\apidocs\question1.html...
+Generating C:\Users\mm computer\Desktop\JAVAPROJECT\target\site\apidocs\question10.html...
+Generating C:\Users\mm computer\Desktop\JAVAPROJECT\target\site\apidocs\question2.html...
+Generating C:\Users\mm computer\Desktop\JAVAPROJECT\target\site\apidocs\question3.html...
+Generating C:\Users\mm computer\Desktop\JAVAPROJECT\target\site\apidocs\question4.html...
+Generating C:\Users\mm computer\Desktop\JAVAPROJECT\target\site\apidocs\question5.html...
+Generating C:\Users\mm computer\Desktop\JAVAPROJECT\target\site\apidocs\question6.html...
+Generating C:\Users\mm computer\Desktop\JAVAPROJECT\target\site\apidocs\question7.html...
+Generating C:\Users\mm computer\Desktop\JAVAPROJECT\target\site\apidocs\question8.html...
+Generating C:\Users\mm computer\Desktop\JAVAPROJECT\target\site\apidocs\question9.html...
+Generating C:\Users\mm computer\Desktop\JAVAPROJECT\target\site\apidocs\Result.html...
+Generating C:\Users\mm computer\Desktop\JAVAPROJECT\target\site\apidocs\TIC_TAC_TOE.html...
+Generating C:\Users\mm computer\Desktop\JAVAPROJECT\target\site\apidocs\TITLEPAGE.html...
+Generating C:\Users\mm computer\Desktop\JAVAPROJECT\target\site\apidocs\package-summary.html...
+Generating C:\Users\mm computer\Desktop\JAVAPROJECT\target\site\apidocs\package-tree.html...
+Generating C:\Users\mm computer\Desktop\JAVAPROJECT\target\site\apidocs\serialized-form.html...
+Generating C:\Users\mm computer\Desktop\JAVAPROJECT\target\site\apidocs\class-use\HOME.html...
+Generating C:\Users\mm computer\Desktop\JAVAPROJECT\target\site\apidocs\class-use\question1.html...
+Generating C:\Users\mm computer\Desktop\JAVAPROJECT\target\site\apidocs\class-use\question10.html...
+Generating C:\Users\mm computer\Desktop\JAVAPROJECT\target\site\apidocs\class-use\question2.html...
+Generating C:\Users\mm computer\Desktop\JAVAPROJECT\target\site\apidocs\class-use\question3.html...
+Generating C:\Users\mm computer\Desktop\JAVAPROJECT\target\site\apidocs\class-use\question4.html...
+Generating C:\Users\mm computer\Desktop\JAVAPROJECT\target\site\apidocs\class-use\question5.html...
+Generating C:\Users\mm computer\Desktop\JAVAPROJECT\target\site\apidocs\class-use\question6.html...
+Generating C:\Users\mm computer\Desktop\JAVAPROJECT\target\site\apidocs\class-use\question7.html...
+Generating C:\Users\mm computer\Desktop\JAVAPROJECT\target\site\apidocs\class-use\question8.html...
+Generating C:\Users\mm computer\Desktop\JAVAPROJECT\target\site\apidocs\class-use\question9.html...
+Generating C:\Users\mm computer\Desktop\JAVAPROJECT\target\site\apidocs\class-use\Result.html...
+Generating C:\Users\mm computer\Desktop\JAVAPROJECT\target\site\apidocs\class-use\TIC_TAC_TOE.html...
+Generating C:\Users\mm computer\Desktop\JAVAPROJECT\target\site\apidocs\class-use\TITLEPAGE.html...
+Generating C:\Users\mm computer\Desktop\JAVAPROJECT\target\site\apidocs\package-use.html...
+Generating C:\Users\mm computer\Desktop\JAVAPROJECT\target\site\apidocs\overview-tree.html...
+Building index for all classes...
+Generating C:\Users\mm computer\Desktop\JAVAPROJECT\target\site\apidocs\allclasses-index.html...
+Generating C:\Users\mm computer\Desktop\JAVAPROJECT\target\site\apidocs\allpackages-index.html...
+Generating C:\Users\mm computer\Desktop\JAVAPROJECT\target\site\apidocs\index-all.html...
+Generating C:\Users\mm computer\Desktop\JAVAPROJECT\target\site\apidocs\index.html...
+Generating C:\Users\mm computer\Desktop\JAVAPROJECT\target\site\apidocs\help-doc.html...
+100 warnings
+Javadoc Warnings
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question1.java:22: warning: no description for @param
+* @param questionAnswered
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question1.java:23: warning: no description for @param
+* @param marks
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question10.java:23: warning: no @param for questionAnswered
+public question10(int questionAnswered, int marks) {
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question10.java:23: warning: no @param for marks
+public question10(int questionAnswered, int marks) {
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question2.java:23: warning: no @param for questionAnswered
+public question2(int questionAnswered, int marks) {
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question2.java:23: warning: no @param for marks
+public question2(int questionAnswered, int marks) {
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question3.java:23: warning: no @param for questionAnswered
+public question3(int questionAnswered, int marks) {
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question3.java:23: warning: no @param for marks
+public question3(int questionAnswered, int marks) {
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question4.java:23: warning: no @param for questionAnswered
+public question4(int questionAnswered, int marks) {
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question4.java:23: warning: no @param for marks
+public question4(int questionAnswered, int marks) {
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question5.java:23: warning: no @param for questionAnswered
+public question5(int questionAnswered, int marks) {
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question5.java:23: warning: no @param for marks
+public question5(int questionAnswered, int marks) {
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question6.java:21: warning: no @param for questionAnswered
+public question6(int questionAnswered, int marks) {
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question6.java:21: warning: no @param for marks
+public question6(int questionAnswered, int marks) {
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question7.java:23: warning: no @param for questionAnswered
+public question7(int questionAnswered, int marks) {
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question7.java:23: warning: no @param for marks
+public question7(int questionAnswered, int marks) {
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question8.java:22: warning: no @param for questionAnswered
+public question8(int questionAnswered, int marks) {
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question8.java:22: warning: no @param for marks
+public question8(int questionAnswered, int marks) {
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question9.java:23: warning: no @param for questionAnswered
+public question9(int questionAnswered, int marks) {
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question9.java:23: warning: no @param for marks
+public question9(int questionAnswered, int marks) {
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\Result.java:17: warning: no @param for quizanswered
+public Result(int quizanswered, int marks) {
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\Result.java:17: warning: no @param for marks
+public Result(int quizanswered, int marks) {
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\TIC_TAC_TOE.java:24: warning: no comment
+public TIC_TAC_TOE() {
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\HOME.java:184: warning: no comment
+private javax.swing.JButton jButton1;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\HOME.java:185: warning: no comment
+private javax.swing.JLabel jLabel1;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\HOME.java:186: warning: no comment
+private javax.swing.JLabel jLabel2;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\HOME.java:187: warning: no comment
+private javax.swing.JPanel jPanel1;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\HOME.java:188: warning: no comment
+private javax.swing.JPanel jPanel2;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\HOME.java:189: warning: no comment
+private javax.swing.JPanel jPanel3;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\HOME.java:190: warning: no comment
+private javax.swing.JPanel jPanel4;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\HOME.java:191: warning: no comment
+private javax.swing.JButton quizgame;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\HOME.java:192: warning: no comment
+private javax.swing.JButton tictactoe;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question1.java:284: warning: no comment
+private javax.swing.JButton jbtnCheckAnwer;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question1.java:287: warning: no comment
+private javax.swing.JLabel jbtnheading;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question1.java:288: warning: no comment
+private javax.swing.JLabel jbtnquesText;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question1.java:285: warning: no comment
+private javax.swing.JLabel jbtnQuestion1;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question1.java:286: warning: no comment
+private javax.swing.JButton jbtnSubmitNext;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question1.java:281: warning: no comment
+private javax.swing.JPanel jPanel1;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question1.java:282: warning: no comment
+private javax.swing.JPanel jPanel2;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question1.java:283: warning: no comment
+private javax.swing.JPanel jPanel3;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question1.java:289: warning: no comment
+private javax.swing.JRadioButton jrbtn1;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question1.java:290: warning: no comment
+private javax.swing.JRadioButton jrbtn2;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question1.java:291: warning: no comment
+private javax.swing.JRadioButton jrbtn3;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question1.java:292: warning: no comment
+private javax.swing.JRadioButton jrbtn4;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question1.java:293: warning: no comment
+private javax.swing.JLabel lblAnswerStatus;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question1.java:16: warning: no comment
+private int marks;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question1.java:17: warning: no comment
+private int quizanswered;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question10.java:254: warning: no comment
+private javax.swing.JButton jbtnCheckAnwer;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question10.java:257: warning: no comment
+private javax.swing.JLabel jbtnheading;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question10.java:258: warning: no comment
+private javax.swing.JLabel jbtnquesText;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question10.java:255: warning: no comment
+private javax.swing.JLabel jbtnQuestion1;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question10.java:256: warning: no comment
+private javax.swing.JButton jbtnSubmitNext;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question10.java:251: warning: no comment
+private javax.swing.JPanel jPanel1;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question10.java:252: warning: no comment
+private javax.swing.JPanel jPanel2;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question10.java:253: warning: no comment
+private javax.swing.JPanel jPanel3;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question10.java:259: warning: no comment
+private javax.swing.JRadioButton jrbtn1;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question10.java:260: warning: no comment
+private javax.swing.JRadioButton jrbtn2;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question10.java:261: warning: no comment
+private javax.swing.JRadioButton jrbtn3;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question10.java:262: warning: no comment
+private javax.swing.JRadioButton jrbtn4;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question10.java:263: warning: no comment
+private javax.swing.JLabel lblAnswerStatus;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question10.java:16: warning: no comment
+private int marks;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question10.java:17: warning: no comment
+private int quizanswered;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question2.java:274: warning: no comment
+private javax.swing.JButton jbtnCheckAnwer;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question2.java:277: warning: no comment
+private javax.swing.JLabel jbtnheading;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question2.java:278: warning: no comment
+private javax.swing.JLabel jbtnquesText;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question2.java:275: warning: no comment
+private javax.swing.JLabel jbtnQuestion1;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question2.java:276: warning: no comment
+private javax.swing.JButton jbtnSubmitNext;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question2.java:271: warning: no comment
+private javax.swing.JPanel jPanel1;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question2.java:272: warning: no comment
+private javax.swing.JPanel jPanel2;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question2.java:273: warning: no comment
+private javax.swing.JPanel jPanel3;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question2.java:279: warning: no comment
+private javax.swing.JRadioButton jrbtn1;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question2.java:280: warning: no comment
+private javax.swing.JRadioButton jrbtn2;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question2.java:281: warning: no comment
+private javax.swing.JRadioButton jrbtn3;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question2.java:282: warning: no comment
+private javax.swing.JRadioButton jrbtn4;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question2.java:283: warning: no comment
+private javax.swing.JLabel lblAnswerStatus;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question2.java:16: warning: no comment
+private int marks;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question2.java:17: warning: no comment
+private int quizanswered;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question3.java:254: warning: no comment
+private javax.swing.JButton jbtnCheckAnwer;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question3.java:257: warning: no comment
+private javax.swing.JLabel jbtnheading;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question3.java:258: warning: no comment
+private javax.swing.JLabel jbtnquesText;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question3.java:255: warning: no comment
+private javax.swing.JLabel jbtnQuestion1;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question3.java:256: warning: no comment
+private javax.swing.JButton jbtnSubmitNext;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question3.java:251: warning: no comment
+private javax.swing.JPanel jPanel1;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question3.java:252: warning: no comment
+private javax.swing.JPanel jPanel2;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question3.java:253: warning: no comment
+private javax.swing.JPanel jPanel3;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question3.java:259: warning: no comment
+private javax.swing.JRadioButton jrbtn1;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question3.java:260: warning: no comment
+private javax.swing.JRadioButton jrbtn2;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question3.java:261: warning: no comment
+private javax.swing.JRadioButton jrbtn3;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question3.java:262: warning: no comment
+private javax.swing.JRadioButton jrbtn4;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question3.java:263: warning: no comment
+private javax.swing.JLabel lblAnswerStatus;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question3.java:17: warning: no comment
+private int marks;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question3.java:16: warning: no comment
+private int quizanswered;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question4.java:253: warning: no comment
+private javax.swing.JButton jbtnCheckAnwer;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question4.java:256: warning: no comment
+private javax.swing.JLabel jbtnheading;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question4.java:257: warning: no comment
+private javax.swing.JLabel jbtnquesText;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question4.java:254: warning: no comment
+private javax.swing.JLabel jbtnQuestion1;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question4.java:255: warning: no comment
+private javax.swing.JButton jbtnSubmitNext;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question4.java:250: warning: no comment
+private javax.swing.JPanel jPanel1;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question4.java:251: warning: no comment
+private javax.swing.JPanel jPanel2;
+^
+C:\Users\mm computer\Desktop\JAVAPROJECT\src\main\java\question4.java:252: warning: no comment
+private javax.swing.JPanel jPanel3;
+^
+View Generated javadoc at C:\Users\mm computer\Desktop\JAVAPROJECT\target\site\apidocs\
+------------------------------------------------------------------------
+BUILD SUCCESS
+------------------------------------------------------------------------
+Total time:  8.130 s
+Finished at: 2021-12-09T23:58:33+05:00
+------------------------------------------------------------------------
